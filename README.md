@@ -1,4 +1,4 @@
-# Hi there 👋
+# Olá!
 
 Esse é meu github para projetos da faculdade.
 Separado do github principal pela disparidade das temáticas e organização.
@@ -20,5 +20,11 @@ Separado do github principal pela disparidade das temáticas e organização.
 ## Bases de Programação - 2 Período
 
 - Calculadora em C
-- Trabalho em grupo, código parcialmente meu (
+- Trabalho em grupo, código parcialmente meu
 - Feito na data ~6/12/2025
+
+## Estrutura de Dados - 3 Período
+
+- Fila em C
+- Trabalho em Dupla, 50% do código é meu
+- Feito na data ~13/04/2026 
